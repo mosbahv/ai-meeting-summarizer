@@ -1,0 +1,27 @@
+1
+00:00,000 --> 00:04,000
+Sara Ahmed Entering Room
+
+2
+00:04,000 --> 00:09,000
+Sara Ahmed Start talking
+
+3
+00:09,000 --> 00:13,000
+Sara Ahmed Talking
+
+4
+00:13,000 --> 00:18,000
+Sara Ahmed End talking
+
+5
+00:19,000 --> 00:24,000
+Sara Ahmed Start talking again
+
+6
+00:24,000 --> 00:29,000
+Sara Ahmed Talking more
+
+7
+00:29,000 --> 00:34,000
+Sara Ahmed End talking again

@@ -1,0 +1,27 @@
+1
+00:00,000 --> 00:02,000
+Laila Farouk Entering Room
+
+2
+00:02,000 --> 00:07,000
+Laila Farouk Start talking
+
+3
+00:07,000 --> 00:12,000
+Laila Farouk Talking
+
+4
+00:12,000 --> 00:17,000
+Laila Farouk End talking
+
+5
+00:18,000 --> 00:23,000
+Laila Farouk Start talking again
+
+6
+00:23,000 --> 00:28,000
+Laila Farouk Talking more
+
+7
+00:28,000 --> 00:33,000
+Laila Farouk End talking again

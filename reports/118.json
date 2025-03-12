@@ -1,0 +1,43 @@
+{
+    "summary": "The monthly departmental managers' meeting at Quartz Power Group, led by Managing Director Marcus White, covered key agenda items including flexible working plans, board meeting updates, relocation cost breakdowns, and an upcoming presentation by Patricia Reyes. Discussions highlighted progress on flexible working hours, concerns about cost allocations (particularly in IT), and the need for further review of proposals. The meeting was adjourned temporarily to accommodate the research presentation.",
+    "participants_analysis": {
+        "total_speakers": 6,
+        "top_speakers": [
+            "Marcus White",
+            "Maya",
+            "Matt"
+        ],
+        "avg_speaking_time": "Not quantifiable from text"
+    },
+    "key_questions_answers": [
+        {
+            "question": "What are Maya's concerns about flexible working hours?",
+            "answer": "Maya is concerned about balancing core hours with flexible hours and requests more time to review Paul's proposal in detail."
+        },
+        {
+            "question": "What issue does Matt raise regarding relocation costs?",
+            "answer": "Matt highlights discrepancies in IT cost estimates, noting that allocated figures do not match his projections and that IT is bearing excessive costs despite reallocating some expenses to other departments."
+        },
+        {
+            "question": "How does Marcus propose to handle unresolved agenda items?",
+            "answer": "Marcus suggests interrupting and revisiting agenda items after the presentation and deferring detailed discussions on flexible working to next month's meeting."
+        }
+    ],
+    "main_topics": [
+        "Flexible working hour plans",
+        "Upcoming board meeting updates",
+        "Relocation cost allocation",
+        "Presentation of online survey results"
+    ],
+    "general_notes": [
+        "John from Facilities was absent but sent apologies.",
+        "The meeting paused at 11:15 to prepare for Patricia Reyes' presentation.",
+        "IT cost allocation remains unresolved and requires further discussion.",
+        "Maya distributed relocation cost figures in advance, but discrepancies were identified."
+    ],
+    "future_recommendations": [
+        "Review Paul's flexible working proposal in detail before the next meeting.",
+        "Clarify IT cost allocations and reconcile discrepancies in relocation budgets.",
+        "Discuss actionable insights from Patricia Reyes' survey results under 'Any Other Business'."
+    ]
+}

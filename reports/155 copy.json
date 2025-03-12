@@ -1,0 +1,37 @@
+{
+    "summary": "Marcus White, Managing Director of Quartz Power Group, led a departmental meeting focusing on relocation plans, flexible working arrangements, and cost allocation for the relocation. Key discussions included progress updates from Paul’s team on flexible working plans, Maya’s concerns about core hours and proposal review timelines, and Matt’s concerns about IT cost discrepancies. The meeting concluded with plans to revisit unresolved topics and prepare for a presentation by Ms. Patricia Reyes.",
+    "participants_analysis": {
+        "total_speakers": 5,
+        "top_speakers": [
+            "Marcus White",
+            "Maya",
+            "Matt"
+        ],
+        "avg_speaking_time": 0.0
+    },
+    "key_questions_answers": [
+        {
+            "question": "Are the IT relocation costs aligned with prior estimates?",
+            "answer": "Matt highlighted discrepancies between the current figures and his estimates, noting unaccounted overtime and contractor costs. Marcus clarified that IT costs linked to sales/marketing would be covered by those departments’ budgets."
+        },
+        {
+            "question": "Are there concerns about the flexible working proposal?",
+            "answer": "Maya requested more time to review Paul’s proposal in detail, particularly regarding core hours. Marcus agreed to revisit the topic at the next meeting."
+        }
+    ],
+    "main_topics": [
+        "Relocation and Flexible Working Plans",
+        "Cost Allocation for IT and Relocation",
+        "Preparation for Patricia Reyes’ Presentation"
+    ],
+    "general_notes": [
+        "The meeting included intermittent use of Welsh phrases, possibly affecting clarity for non-Welsh speakers.",
+        "Unresolved issues: IT cost distribution and flexible working proposal details.",
+        "Marcus emphasized adherence to the agenda but deferred some discussions to future meetings."
+    ],
+    "future_recommendations": [
+        "Schedule a dedicated session to review Paul’s flexible working proposal in detail.",
+        "Clarify cost allocation methodologies for IT and other departments prior to relocation.",
+        "Ensure all pre-meeting materials (e.g., budgets, proposals) are distributed earlier for thorough review."
+    ]
+}

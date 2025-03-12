@@ -1,0 +1,43 @@
+{
+    "summary": "The panel discussion focused on advancing accessibility in XR (Extended Reality) technologies, featuring researchers Amy Pavel, Kyle Rector, and Martez Mott. Amy explored AI-driven tools for non-visual AR accessibility, including mobile AR apps for furniture placement and 360-video navigation. Kyle developed a non-visual VR adaptation of the game Showdown for visually impaired users, emphasizing audio cues and scaffolding techniques. Martez investigated physical accessibility barriers in commercial VR systems for people with disabilities like cerebral palsy and muscular dystrophy, identifying hardware challenges such as controller use and headset setup. All three highlighted the need for modular, adaptive designs and user-centered approaches.",
+    "participants_analysis": {
+        "total_speakers": 4,
+        "top_speakers": [
+            "Shiri Azenkot",
+            "Amy Pavel",
+            "Kyle Rector",
+            "Martez Mott"
+        ],
+        "avg_speaking_time": 0.0
+    },
+    "key_questions_answers": [
+        {
+            "question": "What research questions and key findings have you explored in XR accessibility?",
+            "answer": "Amy: Focused on making AR screen-reader accessible via AI tools; prototyped AR apps for furniture placement and 360-video reorientation. Kyle: Created a non-visual VR version of Showdown, using binaural audio and vibration hints; found verbal scaffolding most effective for experienced players. Martez: Identified physical barriers in VR hardware (e.g., controller use, headset setup) through user studies with people with mobility impairments."
+        },
+        {
+            "question": "What are the key challenges in your projects?",
+            "answer": "Amy: Balancing physical/digital content representation in AR using computer vision. Kyle: Conveying depth/direction of moving objects in VR and onboarding new users. Martez: Addressing diverse physical interactions with VR hardware (e.g., floor calibration, controller adaptability)."
+        }
+    ],
+    "main_topics": [
+        "AR accessibility for screen reader users",
+        "Non-visual VR gaming experiences",
+        "Physical disability barriers in VR hardware",
+        "AI-driven tools for media accessibility",
+        "Modular and adaptive XR design"
+    ],
+    "general_notes": [
+        "AR and VR accessibility requires addressing both digital content and physical environment integration.",
+        "User diversity (e.g., visual vs. physical disabilities) demands tailored solutions.",
+        "Current commercial VR hardware lacks flexibility for users with limited mobility.",
+        "Scaffolding techniques (e.g., audio hints) improve accessibility but depend on user experience."
+    ],
+    "future_recommendations": [
+        "Develop standardized computer vision frameworks for AR scene segmentation.",
+        "Promote modular VR hardware (e.g., removable visual components) for customizable accessibility.",
+        "Integrate adaptive controllers and alternative input methods for physical disabilities.",
+        "Expand collaboration with disability communities for iterative design processes.",
+        "Explore AI-driven summarization of complex AR/VR environments for non-visual users."
+    ]
+}

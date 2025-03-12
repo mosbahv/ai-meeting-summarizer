@@ -1,0 +1,41 @@
+{
+    "summary": "The monthly departmental managers' meeting at Quartz Power Group, led by Managing Director Marcus White, covered three main agenda items: flexible working plans, board meeting updates, and relocation cost allocations. Discussions on flexible working hours highlighted the need for further review of Paul's proposal. A disagreement arose regarding IT cost allocations during relocation, with Matt expressing concerns about budget fairness. The meeting was paused to accommodate a presentation by Patricia Reyes from a research firm, which will inform future discussions.",
+    "participants_analysis": {
+        "total_speakers": 5,
+        "top_speakers": [
+            "Marcus White",
+            "Maya",
+            "Matt"
+        ],
+        "avg_speaking_time": 15.0
+    },
+    "key_questions_answers": [
+        {
+            "question": "What is the progress on flexible working hours?",
+            "answer": "Paul’s team has developed a proposal combining core and flexible hours, but further review is needed before finalization."
+        },
+        {
+            "question": "How are relocation costs being allocated?",
+            "answer": "Maya distributed costs across departments, but Matt argues IT is still overburdened. Costs tied to specific departments (e.g., marketing) may be covered by their budgets."
+        },
+        {
+            "question": "What concerns exist about the relocation cost breakdown?",
+            "answer": "Matt highlighted discrepancies in IT cost estimates and raised issues about overtime and contractor expenses."
+        }
+    ],
+    "main_topics": [
+        "Flexible Working Hours Proposal",
+        "Upcoming Board Meeting Updates",
+        "Relocation Cost Allocation"
+    ],
+    "general_notes": [
+        "John from Facilities was absent but sent apologies.",
+        "Patricia Reyes' presentation on survey results is pending post-break.",
+        "Cost allocation discussions were deferred to allow time for the presentation setup."
+    ],
+    "future_recommendations": [
+        "Review Paul’s flexible working proposal in detail before next meeting.",
+        "Reconcile IT cost discrepancies and finalize relocation budget allocations.",
+        "Discuss insights from Patricia Reyes' survey results under 'Any Other Business'."
+    ]
+}

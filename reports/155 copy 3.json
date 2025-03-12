@@ -1,0 +1,39 @@
+{
+    "summary": "The monthly departmental meeting at Quartz Power Group, led by Managing Director Marcus White, focused on relocation plans, flexible working arrangements, and cost allocation. Discussions included progress updates from Paul's team, concerns from Maya about flexible hours implementation, and Matt's objections regarding IT department costs. The meeting also highlighted preparations for a presentation by Ms. Patricia Reyes and deferred detailed reviews of proposals to future meetings.",
+    "participants_analysis": {
+        "total_speakers": 5,
+        "top_speakers": [
+            "Marcus White",
+            "Maya",
+            "Matt"
+        ],
+        "avg_speaking_time": 0.0
+    },
+    "key_questions_answers": [
+        {
+            "question": "Are the IT department's relocation costs fairly allocated?",
+            "answer": "Matt raised discrepancies between his estimates and current figures, noting overtime needs. Marcus clarified costs are shared across departments (e.g., marketing) but agreed to revisit allocations."
+        },
+        {
+            "question": "How will flexible working hours impact teams?",
+            "answer": "Maya requested more time to review Paul's proposal. Marcus agreed to discuss it in detail at the next meeting."
+        }
+    ],
+    "main_topics": [
+        "Relocation and flexible working plans",
+        "Cost breakdown and budget allocation",
+        "IT department expenses",
+        "Preparation for Patricia Reyes' presentation"
+    ],
+    "general_notes": [
+        "The meeting included intermittent Welsh phrases, possibly indicating bilingual discussions.",
+        "Marcus emphasized tight scheduling, including a break for Patricia Reyes' setup.",
+        "Cost allocation disputes suggest interdepartmental coordination challenges."
+    ],
+    "future_recommendations": [
+        "Conduct a detailed review of Paul's flexible working proposal before the next meeting.",
+        "Clarify IT cost allocations with Matt and ensure budget accuracy.",
+        "Confirm logistical details for Patricia Reyes' presentation in advance.",
+        "Address unresolved agenda items (e.g., core hours system) in subsequent sessions."
+    ]
+}

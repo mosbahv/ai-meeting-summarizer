@@ -1,0 +1,39 @@
+{
+    "summary": "Marcus White led a monthly departmental managers' meeting at Quartz Power Group. Key discussion points included progress on flexible working hours (led by Paul), relocation cost allocation (presented by Maya), and preparations for an upcoming board meeting. The meeting was paused to accommodate Patricia Reyes' presentation of survey results. Key outcomes: Paul's proposal requires further review, IT cost allocation disagreements arose, and next steps were deferred post-presentation.",
+    "participants_analysis": {
+        "total_speakers": 5,
+        "top_speakers": [
+            "Marcus",
+            "Maya",
+            "Paul",
+            "Matt"
+        ],
+        "avg_speaking_time": 2.5
+    },
+    "key_questions_answers": [
+        {
+            "question": "Does Maya have concerns about Paul's flexible working proposal?",
+            "answer": "Maya requests more time to review the proposal but finds the core/flexible hours system generally acceptable."
+        },
+        {
+            "question": "Why does Matt disagree with the relocation cost figures?",
+            "answer": "Matt highlights discrepancies in IT cost estimates, noting unaccounted overtime and contractor expenses. Maya explains costs were redistributed across departments."
+        }
+    ],
+    "main_topics": [
+        "Flexible Working Hours Proposal",
+        "Relocation Cost Allocation",
+        "Upcoming Board Meeting Changes"
+    ],
+    "general_notes": [
+        "John (Facilities) absent with prior notice.",
+        "Agenda adjusted to accommodate external presenter.",
+        "IT cost allocation remains unresolved and requires follow-up."
+    ],
+    "future_recommendations": [
+        "Circulate Paul's proposal for detailed review before the next meeting.",
+        "Clarify IT cost distribution methodology with Maya and Matt.",
+        "Evaluate Patricia Reyes' survey results for operational insights.",
+        "Assign Lydia to track action items from unresolved discussions."
+    ]
+}

@@ -1,0 +1,55 @@
+2025-03-11 17:00:01,359 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-11 17:00:01,359 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-11 17:00:01,385 - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-11 17:00:48,504 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-11 17:00:48,506 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-11 17:00:48,539 - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-11 17:00:57,091 - WARNING -  * Debugger is active!
+2025-03-11 17:00:57,103 - INFO -  * Debugger PIN: 582-245-194
+2025-03-11 17:01:05,629 - INFO -  * Detected change in 'C:\\Users\\hp\\miniconda3\\Lib\\logging\\__init__.py', reloading
+2025-03-11 17:01:06,927 - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-11 17:01:15,707 - WARNING -  * Debugger is active!
+2025-03-11 17:01:15,717 - INFO -  * Debugger PIN: 582-245-194
+2025-03-11 17:01:26,715 - INFO -  * Detected change in 'd:\\Teknoverse\\ai meeting summarizer v2 - Copy\\main.py', reloading
+2025-03-11 17:01:26,717 - INFO -  * Detected change in 'd:\\Teknoverse\\ai meeting summarizer v2 - Copy\\main.py', reloading
+2025-03-11 17:01:26,718 - INFO -  * Detected change in 'd:\\Teknoverse\\ai meeting summarizer v2 - Copy\\main.py', reloading
+2025-03-11 17:01:27,991 - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-11 17:09:11,646 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-11 17:09:11,648 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-11 17:09:11,667 - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-11 17:09:20,146 - WARNING -  * Debugger is active!
+2025-03-11 17:09:20,159 - INFO -  * Debugger PIN: 582-245-194
+2025-03-11 17:18:03,011 - INFO -  * Detected change in 'd:\\Teknoverse\\ai meeting summarizer v2 - Copy\\main.py', reloading
+2025-03-11 17:18:03,014 - INFO -  * Detected change in 'd:\\Teknoverse\\ai meeting summarizer v2 - Copy\\main.py', reloading
+2025-03-11 17:18:05,006 - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-11 17:27:49,776 - INFO - 127.0.0.1 - - [11/Mar/2025 17:27:49] "POST /generate_report HTTP/1.1" 200 -
+2025-03-11 17:27:56,461 - INFO - 127.0.0.1 - - [11/Mar/2025 17:27:56] "POST /generate_report HTTP/1.1" 200 -
+2025-03-11 17:28:01,413 - INFO - 127.0.0.1 - - [11/Mar/2025 17:28:01] "POST /generate_report HTTP/1.1" 200 -
+2025-03-11 17:28:46,947 - INFO - 127.0.0.1 - - [11/Mar/2025 17:28:46] "POST /generate_report HTTP/1.1" 200 -
+2025-03-11 17:29:02,537 - INFO - 127.0.0.1 - - [11/Mar/2025 17:29:02] "POST /generate_report HTTP/1.1" 200 -
+2025-03-11 17:29:04,424 - INFO - 127.0.0.1 - - [11/Mar/2025 17:29:04] "POST /generate_report HTTP/1.1" 200 -
+2025-03-11 17:29:10,730 - INFO - 127.0.0.1 - - [11/Mar/2025 17:29:10] "POST /generate_report HTTP/1.1" 200 -
+2025-03-11 17:29:17,054 - INFO - 127.0.0.1 - - [11/Mar/2025 17:29:17] "POST /generate_report HTTP/1.1" 200 -
+2025-03-11 17:29:43,939 - INFO - 127.0.0.1 - - [11/Mar/2025 17:29:43] "POST /generate_report HTTP/1.1" 200 -
+2025-03-11 17:29:45,528 - INFO - 127.0.0.1 - - [11/Mar/2025 17:29:45] "POST /generate_report HTTP/1.1" 200 -
+2025-03-11 17:29:51,228 - INFO - 127.0.0.1 - - [11/Mar/2025 17:29:51] "POST /generate_report HTTP/1.1" 200 -
+2025-03-11 17:29:52,964 - INFO - 127.0.0.1 - - [11/Mar/2025 17:29:52] "POST /generate_report HTTP/1.1" 200 -
+2025-03-11 17:30:10,868 - INFO - 127.0.0.1 - - [11/Mar/2025 17:30:10] "POST /generate_report HTTP/1.1" 200 -
+2025-03-11 17:31:28,240 - INFO - 127.0.0.1 - - [11/Mar/2025 17:31:28] "POST /generate_report HTTP/1.1" 200 -
+2025-03-11 17:32:17,964 - INFO - 127.0.0.1 - - [11/Mar/2025 17:32:17] "POST /generate_report HTTP/1.1" 200 -
+2025-03-11 17:32:19,449 - INFO - 127.0.0.1 - - [11/Mar/2025 17:32:19] "POST /generate_report HTTP/1.1" 200 -
+2025-03-11 17:32:44,051 - INFO - 127.0.0.1 - - [11/Mar/2025 17:32:44] "POST /generate_report HTTP/1.1" 200 -
+2025-03-11 17:32:45,808 - INFO - 127.0.0.1 - - [11/Mar/2025 17:32:45] "POST /generate_report HTTP/1.1" 200 -
+2025-03-11 17:33:00,842 - INFO - 127.0.0.1 - - [11/Mar/2025 17:33:00] "[31m[1mPOST /generate_report HTTP/1.1[0m" 400 -
+2025-03-11 17:33:06,780 - INFO - 127.0.0.1 - - [11/Mar/2025 17:33:06] "POST /generate_report HTTP/1.1" 200 -
+2025-03-11 17:34:19,425 - INFO - 127.0.0.1 - - [11/Mar/2025 17:34:19] "POST /generate_report HTTP/1.1" 200 -
+2025-03-11 17:34:21,542 - INFO - 127.0.0.1 - - [11/Mar/2025 17:34:21] "POST /generate_report HTTP/1.1" 200 -
+2025-03-11 17:34:35,809 - INFO - 127.0.0.1 - - [11/Mar/2025 17:34:35] "POST /generate_report HTTP/1.1" 200 -
+2025-03-11 17:35:19,269 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-11 17:35:19,281 - INFO - 127.0.0.1 - - [11/Mar/2025 17:35:19] "POST /generate_report HTTP/1.1" 200 -
+2025-03-11 17:36:03,045 - INFO - 127.0.0.1 - - [11/Mar/2025 17:36:03] "POST /generate_report HTTP/1.1" 200 -
+2025-03-11 17:36:04,555 - INFO - 127.0.0.1 - - [11/Mar/2025 17:36:04] "POST /generate_report HTTP/1.1" 200 -
+2025-03-11 17:36:06,050 - INFO - 127.0.0.1 - - [11/Mar/2025 17:36:06] "POST /generate_report HTTP/1.1" 200 -

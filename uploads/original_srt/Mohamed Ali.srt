@@ -1,0 +1,27 @@
+1
+00:00,000 --> 00:06,000
+Mohamed Ali Entering Room
+
+2
+00:06,000 --> 00:11,000
+Mohamed Ali Start talking
+
+3
+00:11,000 --> 00:16,000
+Mohamed Ali Talking
+
+4
+00:16,000 --> 00:21,000
+Mohamed Ali End talking
+
+5
+00:22,000 --> 00:27,000
+Mohamed Ali Start talking again
+
+6
+00:27,000 --> 00:32,000
+Mohamed Ali Talking more
+
+7
+00:32,000 --> 00:37,000
+Mohamed Ali End talking again

@@ -1,0 +1,2 @@
+2025-03-10 17:14:44.198247: Error processing uploads/audio/mos.wav: expected str, bytes or os.PathLike object, not BytesIO
+2025-03-10 17:16:29.484764: Error processing uploads/audio/118.wav: expected str, bytes or os.PathLike object, not BytesIO

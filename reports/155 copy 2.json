@@ -1,0 +1,42 @@
+{
+    "summary": "The meeting, led by Marcus White (Managing Director of Quartz Power Group), focused on departmental updates, relocation plans, flexible working policies, and cost allocation challenges. Key discussions included progress on flexible working plans by Paul, concerns from Maya about core hours, and Matt's feedback on IT cost discrepancies. The meeting was paused to prepare for a presentation by Ms. Patricia Reyes.",
+    "participants_analysis": {
+        "total_speakers": 5,
+        "top_speakers": [
+            "Marcus White",
+            "Maya",
+            "Matt",
+            "Paul",
+            "Lydia"
+        ],
+        "avg_speaking_time": 0.0
+    },
+    "key_questions_answers": [
+        {
+            "question": "How does flexible working impact Maya's team?",
+            "answer": "Maya expressed concerns about core hours and requested more time to review Paul's proposal. Marcus agreed to revisit the topic at the next meeting."
+        },
+        {
+            "question": "Why are IT costs higher than Matt's estimates?",
+            "answer": "Matt highlighted discrepancies in relocation costs for IT. Marcus explained that costs were distributed across departments (e.g., marketing) to balance budgets."
+        }
+    ],
+    "main_topics": [
+        "Relocation plans and flexible working policies",
+        "Cost breakdown and budget allocation challenges",
+        "Preparation for Patricia Reyes' presentation",
+        "IT department's role in relocation expenses"
+    ],
+    "general_notes": [
+        "Mixed use of Welsh and English in the transcript caused some unclear segments.",
+        "Agenda management issues led to interruptions and deferred discussions.",
+        "Discrepancies in cost figures between departments need resolution.",
+        "Time constraints limited detailed discussions on key items."
+    ],
+    "future_recommendations": [
+        "Circulate Paul's flexible working proposal in advance for thorough review.",
+        "Clarify cost allocation methodology across departments.",
+        "Ensure all financial reports are standardized and shared pre-meeting.",
+        "Address language consistency in meeting documentation for clarity."
+    ]
+}

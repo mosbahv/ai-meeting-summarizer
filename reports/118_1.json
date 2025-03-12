@@ -1,0 +1,39 @@
+{
+    "summary": "The monthly departmental managers' meeting at Quartz Power Group, led by Managing Director Marcus White, covered key agenda items including relocation plans, flexible working hours, cost allocation for relocation, and updates for the upcoming board meeting. The meeting was interrupted to accommodate a presentation by Patricia Reyes from a contracted research company. Discussions highlighted progress on flexible working proposals, unresolved disputes over IT cost allocations, and preparatory notes for the board meeting.",
+    "participants_analysis": {
+        "total_speakers": 5,
+        "top_speakers": [
+            "Marcus White",
+            "Maya",
+            "Matt"
+        ],
+        "avg_speaking_time": 0.0
+    },
+    "key_questions_answers": [
+        {
+            "question": "What is the progress on flexible working hours?",
+            "answer": "Paul’s team has developed a proposal, but further review is needed before finalization."
+        },
+        {
+            "question": "How are relocation costs being allocated?",
+            "answer": "Maya distributed a cost breakdown, but Matt raised concerns about discrepancies in IT department costs, suggesting reallocation to other departments."
+        }
+    ],
+    "main_topics": [
+        "Relocation and flexible working plans",
+        "Upcoming board meeting updates",
+        "Cost allocation for relocation",
+        "Presentation of external survey results"
+    ],
+    "general_notes": [
+        "John from Facilities was absent with prior notice.",
+        "The meeting was time-constrained due to the scheduled presentation.",
+        "IT cost allocation remains contentious and unresolved."
+    ],
+    "future_recommendations": [
+        "Review Paul’s flexible working proposal in detail at the next meeting.",
+        "Reconcile IT cost discrepancies and finalize budget allocations.",
+        "Ensure all departments validate the relocation cost breakdown.",
+        "Discuss outcomes of Patricia Reyes’ presentation in future sessions."
+    ]
+}
